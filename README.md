@@ -27,6 +27,9 @@ The website is hosted on GitHub Pages:
 
 Open index.html in your browser.
 
+
+
+
 License
 This project is licensed under the MIT License.
 
